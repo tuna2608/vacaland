@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:vaca_land/GettingStarted/page3.dart';
-import 'package:vaca_land/component/getting_started_page.dart';
+import 'package:vaca_land/GettingStarted/GettingStartedForm/getting_started_page.dart';
 
 class SecondPage extends StatelessWidget {
   const SecondPage({super.key});

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:vaca_land/component/getting_started_page.dart';
+import 'package:vaca_land/GettingStarted/GettingStartedForm/getting_started_page.dart';
 
 import '../Page/Login/login.dart';
 
